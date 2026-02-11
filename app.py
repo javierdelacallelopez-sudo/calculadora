@@ -1,4 +1,3 @@
-:"import streamlit as st
 
 # 1. Configuración de la página
 st.set_page_config(page_title="Salud 3º ESO", page_icon="🏥")
