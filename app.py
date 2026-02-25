@@ -1,9 +1,10 @@
 
+import streamlit as st
 # 1. Configuración de la página
 st.set_page_config(page_title="Salud 3º ESO", page_icon="🏥")
 
 # Título y Descripción
-st.title("calculadora rebajas")
+st.title("calculadora rebajas guay")
 st.markdown("Bienvenido. Introduce tus descuentos junto al precio.")
 st.write("---") # Línea separadora
 
