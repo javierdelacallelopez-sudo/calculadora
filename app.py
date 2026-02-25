@@ -23,7 +23,7 @@ if st.button("Calcular ahora"):
     
     with col1:
         # Usamos metric para que el número se vea grande
-        st.metric(label="precio final, value=f"{precio:.2f}")
+        st.metric(label="precio final" value=f"{precio:.2f}")
         st.success(f"Te ahorras {uuu}")
         
     with col2:
